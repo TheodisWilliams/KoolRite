@@ -1,0 +1,18 @@
+{
+  "name": "KoolRite_L",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://TheodisWilliams.github.io/KoolRite",
+  "license": "ISC"
+}
